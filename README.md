@@ -34,6 +34,24 @@ https://fetchrss.com/reddit
 
 https://antennapod.org/
 
+## Notifications
+
+Decide whether you want to follow some stuff in real-time (high-priority) or just once in a while and curate those sources on appropriate platforms.
+
+## Prefetching
+
+You can decide whether you want a full article or just a preview.
+
+## Spec
+
+`<image> sub-element of <channel>`
+
+This can be used to populate Favicons in the clients for better UX.
+
+`[<enclosure>](https://www.rssboard.org/rss-enclosures-use-case) sub-element of <item>`
+
+Payloads for RSS, media files (mostly used for podcasts I think)
+
 ## Other Formats / Media?
 
 Frankly for Youtube, Should use a Client.
