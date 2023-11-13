@@ -40,6 +40,10 @@ IOS - https://uyouplus.com/
 
 Desktop - https://freetubeapp.io/
 
+## Telegram
+
+https://t.me/TheFeedReaderBot
+
 ## Further Reading
 
 https://github.com/AboutRSS/ALL-about-RSS
