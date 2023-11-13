@@ -30,6 +30,10 @@ https://raw.githubusercontent.com/libredirect/instances/main/data.json
 
 https://fetchrss.com/reddit
 
+## Podcasts / Audio
+
+https://antennapod.org/
+
 ## Other Formats / Media?
 
 Frankly for Youtube, Should use a Client.
