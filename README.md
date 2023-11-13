@@ -1,6 +1,6 @@
 # RSS-Maxxing
 
-you can litterly use rss everywhere, you just don't know how.
+You can litterly use RSS everywhere, you just don't know how.
 
 ## Choose a client
 
