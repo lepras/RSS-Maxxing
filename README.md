@@ -48,7 +48,7 @@ You can decide whether you want a Full Article or just a Preview.
 
 This can be used to populate Favicons in the Clients for Better UX.
 
-[<enclosure>](https://www.rssboard.org/rss-enclosures-use-case) `sub-element of <item>`
+[enclosure](https://www.rssboard.org/rss-enclosures-use-case) `sub-element of <item>`
 
 Payloads for RSS, Media Files (Mostly used for Podcasts I think)
 
