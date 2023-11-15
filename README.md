@@ -10,7 +10,13 @@ For IOS - https://apps.apple.com/us/app/reeder-5/id1529445840
 
 For Desktop - https://nodetics.com/feedbro/
 
+Linux GTK App - https://gitlab.com/news-flash/news_flash_gtk
+
 Syncing / Self-Hosting - https://github.com/x86dev/docker-ttrss
+
+If you have nextcloud setup, there is a news app there.
+
+If you use thunderbird, you can add feed there. (Apparently It was first used for usenet newsgroups as well)
 
 ## What if a Site doesn't have RSS?
 
